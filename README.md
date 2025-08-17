@@ -1,4 +1,5 @@
-# Super-Mario-64-DS-Never-Was is hack intended to create the SM64DS game the way it should have been.
+# Super-Mario-64-DS-Never-Was
+This hack aims to make the SM64DS game the way it should've been.
 Waluigi can run at an uncontrollable warpspeed with the power flower. He can jump higher thant the rest of the characters and is unlockable via Wario to the black box to go into the goomboss level once you've collected at least 150 stars. There are 152 stars total in the game.
 Credits:
 ASM Codes/Waluigi Physics: BluXer0/LarryKoopaDS
